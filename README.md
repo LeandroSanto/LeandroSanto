@@ -6,4 +6,9 @@
 
 ###Olá a todos! :wave:
 
-Sou Leandro estou e aprendendo JavaScript usando Node, React, React Native.
+Sou Leandro e estou aprendendo JavaScript, usando Node, React Js, React Native.
+
+
+###Hello everybody! :wave:
+
+I'm Leandro and I'm learning JavaScript, using Node, React, React Native.
