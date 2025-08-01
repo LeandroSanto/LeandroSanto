@@ -5,10 +5,10 @@
 ###Olá a todos! :wave:
 # Oi Sou Leandro Santo
 
-- Sou de São Gonçalo RJ e tenho 42 anos,
+- Sou de São Gonçalo RJ e tenho 44 anos,
 - Essas são as minhas redes sociais:
 
-- I'm from São Gonçalo RJ and I'm 42 years old,
+- I'm from São Gonçalo RJ and I'm 44 years old,
 - These are my social networks:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-vieira-trindade-do-esp%C3%ADrito-santo-a798523a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
